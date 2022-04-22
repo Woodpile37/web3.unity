@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using ChainSafeGamingSDK.ChainSafePrivateKey;
 public class Web3PrivateKeySignMessageExample : MonoBehaviour
 {
     void Start()

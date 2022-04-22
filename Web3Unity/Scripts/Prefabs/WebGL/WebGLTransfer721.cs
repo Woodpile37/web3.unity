@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Newtonsoft.Json;
-
+using ChainSafeGamingSDK.ChainSafeWebGL;
 #if UNITY_WEBGL
 public class WebGLTransfer721: MonoBehaviour
 {

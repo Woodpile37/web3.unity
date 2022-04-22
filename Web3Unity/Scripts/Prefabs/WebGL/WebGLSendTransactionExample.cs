@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using ChainSafeGamingSDK.ChainSafeWebGL;
 #if UNITY_WEBGL
 public class WebGLSendTransactionExample : MonoBehaviour
 {

@@ -2,7 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Newtonsoft.Json;
-
+using ChainSafeGamingSDK.ChainSafePrivateKey;
+using ChainSafeGamingSDK.ChainSafeEVM;
 public class Web3PrivateKeySend1155Example : MonoBehaviour
 {
     async public void OnSend1155()

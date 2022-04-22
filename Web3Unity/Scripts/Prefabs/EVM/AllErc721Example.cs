@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Newtonsoft.Json;
-
+using ChainSafeGamingSDK.ChainSafeEVM;
 public class AllErc721Example : MonoBehaviour
 {
     private class NFTs

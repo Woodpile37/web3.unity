@@ -2,6 +2,8 @@ using System.Collections;
 using System.Numerics;
 using System.Collections.Generic;
 using UnityEngine;
+using ChainSafeGamingSDK.ChainSafeERC20;
+
 
 public class ERC20BalanceOfExample : MonoBehaviour
 {

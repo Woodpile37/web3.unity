@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.Networking;
+using ChainSafeGamingSDK.ChainSafeERC1155;
 
 public class ImportNFTTextureExample : MonoBehaviour
 {

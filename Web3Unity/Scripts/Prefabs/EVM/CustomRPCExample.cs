@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using ChainSafeGamingSDK.ChainSafeEVM;
 public class CustomRPCExample : MonoBehaviour
 {
     async void Start()

@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using ChainSafeGamingSDK.ChainSafeERC1155;
 public class ERC1155URIExample : MonoBehaviour
 {
     async void Start()

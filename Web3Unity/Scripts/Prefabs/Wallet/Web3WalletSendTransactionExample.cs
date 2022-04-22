@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using ChainSafeGamingSDK.ChainSafeWallet;
 public class Web3WalletSendTransactionExample : MonoBehaviour
 {
  async public void OnSendTransaction()
