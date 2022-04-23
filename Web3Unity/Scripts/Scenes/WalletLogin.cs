@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using ChainSafeGamingSDK.ChainSafeEVM;
 using ChainSafeGamingSDK.ChainSafeWallet;
+
 public class WalletLogin: MonoBehaviour
 {
     public Toggle rememberMe;
